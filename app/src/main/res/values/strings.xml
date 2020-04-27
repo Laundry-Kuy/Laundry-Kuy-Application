@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LaundryKuy</string>
+    <string name="txt_header">LAUNDRY</string>
+    <string name="txt_header2">KUY</string>
+    <string name="txtcuci">Mencuci</string>
+    <string name="txtmitra">Mitra laundry</string>
+    <string name="txtlayanan">Layanan</string>
+    <string name="txtberat">Cek Berat</string>
+</resources>
